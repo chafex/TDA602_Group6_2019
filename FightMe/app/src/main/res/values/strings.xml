@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FightMe</string>
+    <string name="label_public_files_btn">Public files</string>
+    <string name="label_permissions_btn">Permissions</string>
+    <string name="label_os_btn">Android OS</string>
+    <string name="label_back_btn">Back</string>
+    <string name="label_only_dangerous_btn">Only dangerous</string>
+    <string name="label_show_btn">Show</string>
+    <string name="label_run_btn">Run</string>>
+</resources>
